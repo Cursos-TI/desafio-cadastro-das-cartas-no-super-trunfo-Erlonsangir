@@ -4,12 +4,12 @@ int main(){
 
 
    char Estado[20] = "Ceara";
-   char Codigo[50] = "A01";
+   char Codigo[5] = "A01";
    char Cidade[50] = "Fortaleza";
    int População;
    float Área;
    float PIB;
-   int Pontos turisticos;
+   int Pontosturisticos;
 
 
      printf("Nome do Estado: \n");
@@ -37,7 +37,7 @@ int main(){
 
 
     printf("Numero de pontos turisticos: \n");
-    scanf("%d", &Pontos turisticos);
+    scanf("%d", &Pontosturisticos);
 
 
 
