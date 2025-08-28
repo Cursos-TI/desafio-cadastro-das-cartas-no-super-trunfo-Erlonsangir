@@ -36,11 +36,11 @@ printf("*** Carta 1 ***\n");
 
 
     printf("Digite a População: \n");
-    scanf("%d", &População1);
+    scanf("%d", &Populacao1);
 
 
     printf("Digite  a área em Km²: \n");
-    scanf("%f", &Área1);
+    scanf("%f", &Area1);
 
 
     printf("Digite o PIB em bilhões de reais: \n");
@@ -96,6 +96,6 @@ printf("*** Carta 1 ***\n");
 
 
     return 0;
-    
+
 
 }
